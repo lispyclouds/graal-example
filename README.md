@@ -13,7 +13,7 @@ A sample project starter compiling with GraalVM native image.
 - Extract it to a location navigate to the directory where you can find bin, lib, jre directoires
 - Set an 2 environemnt vars `GRAALVM_HOME` and `JAVA_HOME` to this directory
 - Install Leiningen https://leiningen.org/
-- Run `$GRAAL_VM_HOME/bin/gu install native-image` to install the native tooling for Graal
+- Run `$GRAALVM_HOME/bin/gu install native-image` to install the native tooling for Graal
 
 ### Editor setup:
 - [Emacs](https://cider.mx/)
